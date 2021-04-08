@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 typedef struct _arrayList {
     int arr[5];
     int numOfData;
