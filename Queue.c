@@ -1,4 +1,4 @@
-// 4번 문제 Queue 구현
+// 4번 문제 Queue 구현 
 #include <stdio.h>
 #define MAX 3
 int front = 0;
