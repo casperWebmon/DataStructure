@@ -1,4 +1,4 @@
-// 5번 문제 Stack 구현
+// 5번 문제 Stack 구현  
 #include <stdio.h>
 #include <string.h>
 #define MAX 3
