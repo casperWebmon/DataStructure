@@ -1,4 +1,4 @@
-//Single linked list 로 구현한 2번 문제 
+//Single linked list 로 구현한 2번 문제
 #include <stdio.h>
 #include <stdlib.h>
 
