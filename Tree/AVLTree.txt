@@ -1,0 +1,10 @@
+AVLtree
+
+implemented the function
+-insert
+-delete
+-rebalance
+
+This tree is based on a binary search tree.
+
+https://github.com/casperWebmon/DataStructure
